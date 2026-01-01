@@ -1,8 +1,6 @@
-![Hi, there I am Hammad Bin Sajjad. A software developer and CS sophomore at FCIT Pakistan](pexels-nao-triponez-129208.jpg)
-
 ---
 
-## Computer Science Enthusiast, Software Developer and Content Writer
+## Computer Scientist, Software Engineer, Data Enthusiast and Content Writer
 
 - Currently learning Full-Stack Web Development with Python and Javascript
 - Interested in Mobile Development, Game Development and Machine Learning
